@@ -1,0 +1,98 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+---
+
+<BaseLayout title="Resume" sideBarActiveItemID="cv">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Profile</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+Sofware Developer and IT Professional with 10 years combined experience. I have worked with various languages, 
+including C#, Java, Ruby, Python, HTML, CSS, Vanilla JavaScript, and a few others. I am currently focusing on 
+mastery of modern web languages, which include advance HTML and CSS, but also AstroJS, and ReactJS. 
+I plan on eventually moving to NextJS. 
+<br/>
+<br/>
+I've also worked with various hardware solutions with proficiency in Linux, and some expererience in Helpdesk, Desktop Support, and Computer Networking roles.
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Education</div>
+  </div>
+
+  <div class="time-line-container grid gap-4 mb-10">
+    <TimeLineElement
+      title="Computer Information Systems"
+      subtitle="2012 to 2016 at West Texas A&M Universary, Canyon, Texas, USA"
+    />
+    <TimeLineElement
+      title="Computer Technology Specialist"
+      subtitle="2011 to 2012 at Vista Community College, Amarillo, Texas, USA"
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Full Stack Junior Software Developer"
+      subtitle="From 2022 to 2023 at Micro Technologies, Amarillo, Texas, USA"
+    >
+      Built user interfaces for feed yards and dairy parlor systems. Wrote new features for our supported software and our internal purchasing, data processing, and sanitation web interfaces. Worked on a prototype OCR-based software that will be used to scan product images to ensure micro-ingredient batch production is accurate. [Java, SQL, Primefaces, HTML]
+    </TimeLineElement>
+    <TimeLineElement
+      title="IT Support Specialist"
+      subtitle="From 2021 to 2022 at Amarillo ISD, Amarillo, Texas, USA"
+    >
+      Managed and maintained computer systems, printers, and network connections for all school kitchens in district. Troubleshot hardware and software issues, ensured all devices functioned properly, and worked with staff to understand best practices regarding security. Backed up and re-imaged computers. [Active Directory, Dameware]
+    </TimeLineElement>
+    <TimeLineElement
+      title="Engineering Intern"
+      subtitle="From 2016 to 2016 at United States Department of Agriculture, Bushland, Texas, USA"
+    >
+      Wrote software for Raspberry Pi SBC and digital camera modules to takes images of crop canopy to calculate irrigation efficacy at various times of day and year for research purposes. Created a LAN from scratch due to limitations of network access. [Debian, Python, Cisco, Raspberry Pi] 
+    </TimeLineElement>
+    <TimeLineElement
+      title="Front End Web Developer Intern"
+      subtitle="From 2015 to 2015 at Herring Bank -- Financial Payments, Amarillo, Texas, USA"
+    >
+      Created responsive eCommerse websites for campus bookstores for clients. Wrote scripts that automated purchasing system stress tests. [Volution, WordPress, Ruby on Rails, PHP, JavaScript, JQuery]
+    </TimeLineElement>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Certifications</div>
+  </div>
+
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    <li>
+      <a href="#" target="_blank"> CompTIA A+ Certification</a>
+    </li>
+    <li>
+      <a href="#" target="_blank"> Google IT Support Specialist Certification</a>
+    </li>
+  </ul>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-4 columns-2 mx-6">
+    <li>Information Technology</li>
+    <li>Computer Networking</li>
+    <li>Linux</li>
+    <li>Java</li>
+    <li>Kotlin</li>
+    <li>ReactJS</li>
+    <li>AstroJS</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Vanilla JavaSrcript</li>
+    <li>Python</li>
+    <li>Ruby on Rails</li>
+  </ul>
+</BaseLayout>

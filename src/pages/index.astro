@@ -1,0 +1,73 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+import { getCollection } from "astro:content";
+import createSlug from "../lib/createSlug"
+
+const posts = (await getCollection("blog")).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const last_posts = posts.slice(0, 3);
+---
+
+<BaseLayout sideBarActiveItemID="home">
+  <div class="pb-12 mt-5">
+    <div class="text-xl py-1">Hey there 👋</div>
+    <div class="text-5xl font-bold">I'm Derrick Shaw</div>
+    <div class="text-3xl py-3 font-bold">and I Make Websites and React Web Apps</div>
+    <div class="py-2">
+      <text class="text-lg">
+        This is my personal portfolio. I am a freelance web developer, specializing in efficient and snappy static websites
+        built with AstroJS. I make awesome websites for your businesses that are fast, responsive, 
+        and focused on world class performance and top-notch SEO rating. This means you will always have a top spot on Google searches.
+      </text>
+    </div>
+    <div class="mt-8 ">
+      <a 
+        class=" btn py-3 text-base"
+        href="mailto:dashaw0526@gmail.com"
+        target="_blank"
+        referrerpolicy="no-referrer-when-downgrade">Let's connect!</a
+      >
+    </div>
+  </div>
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
+  </div>
+
+  <HorizontalCard
+    title="DnD Dice Weight Calculator"
+    img="/dice.webp"
+    desc="A small app written in Kotlin. The purpose is to calculate the mean, median, and mode of dice rolls based on user input."
+    url="https://play.google.com/store/apps/details?id=com.androidhell.diceweightcalculator"
+    badge="FOSS"
+  />
+  <div class="divider my-0"></div>
+  <HorizontalCard
+    title="Dietary Translation App"
+    img="/vbtw.webp"
+    desc="An Android app written in Kotlin. The purpose of the app is to offer localized translations for common dietary restrictions at resturants when there is a language barrier."
+    url="https://play.google.com/store/apps/details?id=com.androidhell.imveganbtw"
+    badge="FOSS"
+  />
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from blog</div>
+  </div>
+
+  {
+    last_posts.map((post) => (
+      <>
+        <HorizontalCard
+          title={post.data.title}
+          img={post.data.heroImage}
+          desc={post.data.description}
+          url={"/blog/" + createSlug(post.data.title, post.slug)}
+          target="_self"
+          badge={post.data.badge}
+        />
+        <div class="divider my-0" />
+      </>
+    ))
+  }
+</BaseLayout>

@@ -9,10 +9,6 @@ tags: ["econ theory", "horror movies", "keyboards", "linux"]
 
 Under Contruction. I will try and add blogs in the next couple of weeks. Just some small "what's going on" type stuff.
 
-# If you are reading this, you need to add a dono button that works,
-
-# and fix the readme so when you share the site it will show useful info instead of the template stuff
-
 orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
 malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas

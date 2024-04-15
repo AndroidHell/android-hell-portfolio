@@ -1,56 +1,27 @@
 ---
-title: "If You could info dump one thing to the world, what would it be?"
-description: "Under Construction."
-pubDate: "Apr 12 2024"
+title: "Introductions are in order."
+description: "f you are reading this, it either means you got lost and thought this was the concession booth and are confused by the absolute lack of snacks and soda, or it means you are actually interested in Derrick Shaw, the person. I will go..."
+pubDate: "Apr 15 2024"
 heroImage: "/blog_img.webp"
-badge: "but especially horror movies"
-tags: ["econ theory", "horror movies", "keyboards", "linux"]
+badge: "Hello, world"
+tags: ["blog", "introductions", "nerd", "mental health"]
 ---
 
-Under Contruction. I will try and add blogs in the next couple of weeks. Just some small "what's going on" type stuff.
+If you are reading this, it either means you got lost and thought this was the concession booth and are confused by the absolute lack of snacks and soda,
+or it means you are actually interested in Derrick Shaw, the person. I will go with the positive route and assume you are a recruiter or possible future employer looking at this because it's linked on my resume.
 
-orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+"So who is this Derrick person?", you might be thinking. Well for starters, I am a nerd, a geek, and a dork. Not in any particular order, minde you. My hobbies include Linux-related tinkering, Rubik's cubes, reading, programming, mechanical keyboards, video games, horror movies, nihilism, political theory info-dumping, and neurdivergence info-dumping.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+"Neurodivergence info-dumping???" Yep, a bit more about me. I have what is known as Persistant Depressive Disorder, or Dysthymia. I also have severe social anxiety, pathological demand avoidance, and executive dysfunction. But also I am level 1 Autistic. These all co-exist inside me as co-morbidity and make things hard for me to do. Like a lot. What does this mean? Well it means that I have had a substantially hard time keeping a job(as you can tell from my cherry-picked resume) but it also means I sort of need to take the world at my own pace. If you are neurotypical, you might not know this but the world is really, really loud, and busy, and touchy, and bright, and chaotic. And I tend to freak out.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+But it also means that I share a lot of traits that other Autistics have. I make lists and schedules and itineraries about everything. I need order. I crave order. Tidiness. Sweet, sexy organization. I notice detail, like way more than the average person. I recently learned that a lot of ASDers process a metric tone of information all at once, and it takes time to comb over the details and filter out what is needed and what isn't. For example, if we are at a social event. I am constantly scanning every person there. Seeing what they are wearing, making notes of how their hair is, any blemishes or other defining features on their face, hands, etc. How they talk, how they interact with others. I am also taking in information about the rest of my surroundings. the lights, doors, walls, windows, decor, etc. I didn't know until recently but most people seem to only focus on just the information at hand that is needed for processing. I computer the entire scenario. One caveat is that I, like other NDers, have face blindness. Mine manifest a way that if I know you from work, and see you outside of work, I won't immediately recognize you because, well we aren't at work. I know you are Susan from accounting but I am not at Bank Co. talking to you about accounting. I mean no disrespect about this. It's just how I am wired, and besides I probably still like you anyway.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas rum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+"Alright, cool, but where does the info-dumping come in at?" Well, in an attempt to not scare you away too fast, I will just throw this statistic out. Dod you know that only 27-32% of autistic adults are able to hold down a job? And do you kow why that is? It's because the world isn't built to accept people with these "invisible" disabilities that I and other NDers have. Remember when I said the world is pure unadulterated chaos? Well, It is, and it's really hard for us to function like Big Corporate America wants us to. Now, I would love to just process widgets for 8 hours a day in a cubicle farm but here's the sitch: Can't wear headphones, can't listen to music, can't get up and pace(or any other stim), Rebecca wore that overwhelmingly pungent perfume again today and it's making my nasal cavity and eyes burn, the lights flicker and hum, It's a food day and now I need to rearrange my schedule to eat food with people I don't want to eat food with, Debra want's to make small talk again, Fred just walked by and clapped me on the shoulder to say hello(he's gonna ask me if I watched the game at lunch, isn't he?), etc. And if I get overwhelmed, overstimulated, I would really like to take a few hours to go walking or let my brain relax and recalibrate, but I can't because middle management needs me to make widgets. Like seriously right now. And I get it, I am the widget guy, I am paid to make widgets. But like can they just wait for me to let the loud world around me calm the hell down?
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+You get it, right? So this normal world, to the normal person, doesn't seem so bad. But for people like me, it's an absolute nightmare. I literally can't hold a job because of meltdowns and burnout(which I am working on in therapy now). I start a new job and will be fired in the next 18 months because people won't give me direct instruction, people won't let me work in a way that I am most productive, and eventually the grind just, well, grinds me down and I am no longer a useful tool in the Widget cubicle farm. I can't really help it, I just hope I can find something else before I run out of money when I get fired because it's hard getting a job. Interviews suck because everyone is playing pretend. Everyone has a script except me. It sucks.
+
+So I, along with 70 some odd percent of Autistics basically just suck at working in your neurotypical world. And I think the worst thing about this all is that no one seems to want to meet us where we are at. We are awesome, and if you can figure out how to accommodate us in a way that isn't pandering or making us jump through hoops, you would have an amazing work machine on your hands. But our disabilities are invisible, aren't they?
+
+This leads me to the entire point of this initial blog. I am entering the world of freelance web development. I do not know where this will take me. I don't know if I will be able to make a living off of it, but I really have no other option at this point but to try. The world doesn't work for me, so I need to find my own way. What I do know is that I am decent at web development. If you are reading this, look at this page. I did this. I put this site together in 2 days and got it hosted on the web. I've made sites from scratch several times and I've worked with WordPress, Drupal, Volution, Ruby on Rails, and I've worked with pure HTML, CSS, and JavaScript. I've worked with so many languages that I've forgotten some. In any case, I feel like it's time I find my way in this world. I've pick a modern framework, and will be making a few sites for friends to get my feet wet, then I well be reaching out to potential clients. My goal is to make sites that work for you. That's it. No gimmicks, no megaton frameworks, no server farm bs, none of the scruff that makes websites bulky and just performative nightmares to use. Your business site is your presence on the web. It needs to just work, doesn't it?
+
+And I need this to work. I think I am done being tied to a cubicle desk, or waiting on the next task from above. Working for an employer that doesn't actually care about me, well, it doesn't work for me.

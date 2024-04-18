@@ -1,6 +1,6 @@
 ---
 title: "Introductions are in order."
-description: "f you are reading this, it either means you got lost and thought this was the concession booth and are confused by the absolute lack of snacks and soda, or it means you are actually interested in Derrick Shaw, the person. I will go..."
+description: "If you are reading this, it either means you got lost and thought this was the concession booth and are confused by the absolute lack of snacks and soda, or it means you are actually interested in Derrick Shaw, the person. I will go..."
 pubDate: "Apr 15 2024"
 heroImage: "/blog_img.webp"
 badge: "Hello, world"

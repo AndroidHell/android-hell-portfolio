@@ -1,6 +1,6 @@
 {
-  "name": "astrofy",
-  "description": "Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.",
+  "name": "Derrick Shaw's Portfolio",
+  "description": "This is my personal portfolio. I am a freelance web developer, specializing in efficient and snappy static websites built with AstroJS. I make awesome websites for your businesses that are fast, responsive, and focused on world class performance and top-notch SEO rating. This means you will always have a top spot on Google searches. ",
   "type": "module",
   "version": "3.0.0",
   "private": true,

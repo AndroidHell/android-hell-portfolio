@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://adroid-hell.netlify.app",
+  site: "https://android-hell.netlify.app",
   integrations: [mdx(), sitemap(), tailwind()],
 });

@@ -4,6 +4,61 @@ import HorizontalCard from "../components/HorizontalCard.astro";
 ---
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
+  
+
+  <div>
+    <div class="text-3xl w-full font-bold mb-5 mt-10">Websites</div>
+  </div>
+
+   <HorizontalCard
+    title="Yellow City Web Designs"
+    img="/ycwd-business-site.png"
+    desc="My site for my Freenlance web services. This site is built with AstroJS, TailwindCSS, Flowbite, and TypeScript. All hand-coded and fully responsive. I am also demoing a theming engine and a dark mode toggle on the site."
+    url="https://yellowcityweb.dev"
+    badge="FREELANCE"
+  />
+  
+  <div class="divider my-0"></div>
+  
+  <HorizontalCard
+    title="YCWD Rocinante AstroJS Theme"
+    img="/ycwd-rocinante.png"
+    desc="This is the basic theme template I wrote for my freelance web development. I was aiming for sleak and lightweight but hackable. I actually used this for the basis for my Razorback theme."
+    url="https://ycwd-rocinante.netlify.app"
+    badge="NEW"
+  />
+
+  <div class="divider my-0"></div>
+  
+  <HorizontalCard
+    title="YCWD Y Que AstroJS Theme"
+    img="/ycwd-yque.png"
+    desc="This is the landing page template I wrote for my freelance web development. The goal is to offer all the main elements in a single page layout that feels organic in th way the information is presented."
+    url="https://ycwd-yque.netlify.app"
+    badge="NEW"
+  />
+  
+  <div class="divider my-0"></div>
+  
+  <HorizontalCard
+    title="YCWD Razorback Resturaunt Theme"
+    img="/ycwd-razorback.png"
+    desc="For this project, I set out to break the rules of web dev that I already know. I wanted to try and blend neo-brutalist and vaporwave aethetics for a resturaunt-themed layout. I use bold clashing colors, very little container margins, and even a completely custom 'non-existant' header."
+    url="https://ycwd-razorback.netlify.app"
+    badge="NEW"
+  />
+  
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
+    title="Lawncare Business Website"
+    img="/lawncare-site.jpg"
+    desc="This is an example of a landing page style business website. Navigation is handled from a single page via anchors. It has Home, About Us, Services, Gallery, and Contact Us sections. The site is made with AstroJS, TailwindCSS, and a custom FlowBite component for the carousel system."
+    url="https://lawncare-demo.netlify.app/"
+    badge=""
+  />
+
+
   <div>
     <div class="text-3xl w-full font-bold mb-5">Mobile Apps</div>
   </div>
@@ -24,48 +79,6 @@ import HorizontalCard from "../components/HorizontalCard.astro";
     desc="An Android app written in Kotlin. The purpose of the app is to offer localized translations for common dietary restrictions at resturants when there is a language barrier."
     url="https://play.google.com/store/apps/details?id=com.androidhell.imveganbtw"
     badge="FOSS"
-  />
-
-  <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Websites</div>
-  </div>
-
-   <HorizontalCard
-    title="Yellow City Web Designs"
-    img="/freelance-site.png"
-    desc="My site for my Freenlance web services. This site is built with AstroJS, TailwindCSS, Flowbite, and TypeScript. All hand-coded and fully responsive. I am also demoing a theming engine and a dark mode toggle on the site."
-    url="https://yellowcityweb.dev"
-    badge="FREELANCE"
-  />
-  
-  <div class="divider my-0"></div>
-  
-  <HorizontalCard
-    title="YCWD Rocinante AstroJS Theme"
-    img="/ycwd-demo-site.png"
-    desc="This is the basic theme template I wrote for my freelance web development. I was aiming for sleak and lightweight but hackable. I actually used this for the basis for my Razorback theme."
-    url="https://ycwd-rocinante.netlify.app"
-    badge="NEW"
-  />
-
-  <div class="divider my-0"></div>
-  
-  <HorizontalCard
-    title="YCWD Razorback Resturaunt Theme"
-    img="/ycwd-razorback.png"
-    desc="For this project, I set out to break the rules of web dev that I already know. I wanted to try and blend neo-brutalist and vaporwave aethetics for a resturaunt-themed layout. I use bold clashing colors, very little container margins, and even a completely custom 'non-existant' header."
-    url="https://ycwd-razorback.netlify.app"
-    badge="NEW"
-  />
-  
-  <div class="divider my-0"></div>
-
-  <HorizontalCard
-    title="Lawncare Business Website"
-    img="/lawncare-site.jpg"
-    desc="This is an example of a landing page style business website. Navigation is handled from a single page via anchors. It has Home, About Us, Services, Gallery, and Contact Us sections. The site is made with AstroJS, TailwindCSS, and a custom FlowBite component for the carousel system."
-    url="https://lawncare-demo.netlify.app/"
-    badge=""
   />
 
    <div>

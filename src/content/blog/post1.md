@@ -2,7 +2,7 @@
 title: "My Freelance Website is now live!"
 description: "A few months ago, I was working on learning ReactJS, but stumbled upon a framework with a lot of ReactJS-isms but built for making static websites. That Framework was AstroJS. What Astro does is it allows for static [...]"
 pubDate: "Jun 25 2024"
-heroImage: "/freelance-site.png"
+heroImage: "/ycwd-business-site.png"
 badge: "Hello, world"
 tags: ["blog"]
 ---

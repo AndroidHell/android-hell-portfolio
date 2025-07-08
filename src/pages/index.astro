@@ -34,13 +34,23 @@ const last_posts = posts.slice(0, 3);
   <div>
     <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
   </div>
+
+  <HorizontalCard
+    title="Panhandle People's Pantry"
+    img="/ycwd-panhandlepeoplespantry.webp"
+    desc="This is the website for a food co-op project I am helping develop in Amarillo, TX. Since this project is near and dear to me, I wanted to try a few new fun things. You will see lots of responsive cards, some gradients, and a split navbar. Also, you can't miss the giant carousel hero section."
+    url="https://panhandlepeoplespantry.org/"
+    badge="WEBSITE"
+  />
+
+  <div class="divider my-0"></div>
     
   <HorizontalCard
     title="Amarillo NAACP Website"
     img="/ycwd-amarillo-naacp.webp"
     desc="I had the amazing oppotunity to build the new Amarillo NAACP website. This site is built with SquareSpace. I made this decision to build on top of te old site for sake of sanity and I was curious about what SP was all about since I normally don't use site builders."
     url="https://www.amanaacp.org/"
-    badge="NEW"
+    badge="WEBSITE"
   />
 
     <div class="divider my-0"></div>
@@ -50,19 +60,9 @@ const last_posts = posts.slice(0, 3);
     img="/ycwd-amarillo-fnb.webp"
     desc="Part of the outreach I do in my community is helping with our local Food Not Bombs chapter. FNB is an anarchist collective whose goal is to offer free, nutritious food to the community. We have a lot of recipes and I figured an easily accessible repository would be useful."
     url="https://afnb-recipe-book.netlify.app/"
-    badge="NEW"
+    badge="WEBSITE"
   />
 
-  <div class="divider my-0"></div>
-  
-  <HorizontalCard
-    title="YCWD Y Que AstroJS Theme"
-    img="/ycwd-yque.png"
-    desc="This is the landing page template I wrote for my freelance web development. The goal is to offer all the main elements in a single page layout that feels organic in th way the information is presented."
-    url="https://ycwd-yque.netlify.app"
-    badge="TEMPLATE"
-  />
-  
   <div class="divider my-0"></div>
 
   <HorizontalCard
@@ -70,7 +70,7 @@ const last_posts = posts.slice(0, 3);
     img="/badAffirmations.png"
     desc="An Android app written in React Native as part of my 12 App Challenge. Instead of daily good affirmations, it generates daily humours bad affirmations. This app was inspired by a joke among Discord friends."
     url="https://play.google.com/store/apps/details?id=com.androidhell.badaffirmations"
-    badge="FOSS"
+    badge="APP"
     tags={["android", "React Native", "12 App Challenge"]}
   />
 
@@ -81,7 +81,7 @@ const last_posts = posts.slice(0, 3);
     img="/timeConverter3000.png"
     desc="An Android app written in React Native. This app, like the affirmation app started as a joke among friends. It's basically just a tool to convert human years into various animal years based on calculated lifespan."
     url="https://play.google.com/store/apps/details?id=com.androidhell.TimeConverter3000"
-    badge="FOSS"
+    badge="APP"
     tags={["android", "React Native", "12 App Challenge"]}
   />
 

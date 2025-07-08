@@ -10,7 +10,37 @@ import HorizontalCard from "../components/HorizontalCard.astro";
     <div class="text-3xl w-full font-bold mb-5 mt-10">Websites</div>
   </div>
 
-   <HorizontalCard
+  <HorizontalCard
+    title="Panhandle People's Pantry"
+    img="/ycwd-panhandlepeoplespantry.webp"
+    desc="This is the website for a food co-op project I am helping develop in Amarillo, TX. Since this project is near and dear to me, I wanted to try a few new fun things. You will see lots of responsive cards, some gradients, and a split navbar. Also, you can't miss the giant carousel hero section."
+    url="https://panhandlepeoplespantry.org/"
+    badge="WEBSITE"
+  />
+
+  <div class="divider my-0"></div>
+  
+  <HorizontalCard
+    title="Amarillo NAACP Website"
+    img="/ycwd-amarillo-naacp.webp"
+    desc="I had the amazing oppotunity to build the new Amarillo NAACP website. This site is built with SquareSpace. I made this decision to build on top of te old site for sake of sanity and I was curious about what SP was all about since I normally don't use site builders."
+    url="https://www.amanaacp.org/"
+    badge="WEBSITE"
+  />
+  
+  <div class="divider my-0"></div>
+  
+  <HorizontalCard
+    title="Amarillo Food Not Bombs Recipe Repo"
+    img="/ycwd-amarillo-fnb.webp"
+    desc="Part of the outreach I do in my community is helping with our local Food Not Bombs chapter. FNB is an anarchist collective whose goal is to offer free, nutritious food to the community. We have a lot of recipes and I figured an easily accessible repository would be useful."
+    url="https://afnb-recipe-book.netlify.app/"
+    badge="WEBSITE"
+  />
+
+  <div class="divider my-0"></div>
+
+  <HorizontalCard
     title="Yellow City Web Designs"
     img="/ycwd-business-site.png"
     desc="My site for my Freenlance web services. This site is built with AstroJS, TailwindCSS, Flowbite, and TypeScript. All hand-coded and fully responsive. I am also demoing a theming engine and a dark mode toggle on the site."
@@ -46,26 +76,6 @@ import HorizontalCard from "../components/HorizontalCard.astro";
     desc="For this project, I set out to break the rules of web dev that I already know. I wanted to try and blend neo-brutalist and vaporwave aesthetics for a restaurant-themed layout. I use bold clashing colors, very little container margins, and even a completely custom 'non-existent' header."
     url="https://ycwd-razorback.netlify.app"
     badge="TEMPLATE"
-  />
-
-    <div class="divider my-0"></div>
-  
-  <HorizontalCard
-    title="Amarillo NAACP Website"
-    img="/ycwd-amarillo-naacp.webp"
-    desc="I had the amazing oppotunity to build the new Amarillo NAACP website. This site is built with SquareSpace. I made this decision to build on top of te old site for sake of sanity and I was curious about what SP was all about since I normally don't use site builders."
-    url="https://www.amanaacp.org/"
-    badge="NEW"
-  />
-
-    <div class="divider my-0"></div>
-  
-  <HorizontalCard
-    title="Amarillo Food Not Bombs Recipe Repo"
-    img="/ycwd-amarillo-fnb.webp"
-    desc="Part of the outreach I do in my community is helping with our local Food Not Bombs chapter. FNB is an anarchist collective whose goal is to offer free, nutritious food to the community. We have a lot of recipes and I figured an easily accessible repository would be useful."
-    url="https://afnb-recipe-book.netlify.app/"
-    badge="NEW"
   />
 
   <div>
@@ -123,7 +133,7 @@ import HorizontalCard from "../components/HorizontalCard.astro";
     img="/react-recipe-app.png"
     desc="A recipe fetching web app written in ReactJS, using the spoonacular API to retrive recipes. It uses react-router-dom, useState, useEffect, and a few libraries like Splide, styled-components, react-icons, and framer-motion."
     url="https://reactjs-recipe-demo.netlify.app"
-    badge="NEW"
+    badge="LEARNING PROJECT"
   />
 
 </BaseLayout>
